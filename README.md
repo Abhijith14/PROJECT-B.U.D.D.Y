@@ -13,3 +13,8 @@ TODO:
 - [ ] speech synthesis model, pretrained model, and engine
 - [ ] skills framework
 - [ ] Core A.I. Voice Assistant logic to integrate wake word, speech recongition, natural language understanding, speech sysnthesis, and the skills framework.
+- [ ] Adding Skills : 
+- [ ] Game Analysis ( Single Player and Multi Player) mode
+- [ ] Gesture Control
+- [ ] Face Detection
+- [ ] Emotion Analysis
